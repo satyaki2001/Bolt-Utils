@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bolt-Utils/static/css/main.073c9b0a.css",
+    "main.js": "/Bolt-Utils/static/js/main.44671981.js",
+    "static/js/787.85a40384.chunk.js": "/Bolt-Utils/static/js/787.85a40384.chunk.js",
+    "index.html": "/Bolt-Utils/index.html",
+    "main.073c9b0a.css.map": "/Bolt-Utils/static/css/main.073c9b0a.css.map",
+    "main.44671981.js.map": "/Bolt-Utils/static/js/main.44671981.js.map",
+    "787.85a40384.chunk.js.map": "/Bolt-Utils/static/js/787.85a40384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.44671981.js"
+  ]
+}
